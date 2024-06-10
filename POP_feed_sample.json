@@ -5,15 +5,15 @@
             "id": 0,
             "current_alloc": {
                 "date": "2024-06-10",
-                "HYG": 5.0,
-                "LQD": 5.0,
-                "SPY": 5.0
+                "HYG": 44.0,
+                "LQD": 44.0,
+                "SPY": 44.0
             },
             "previous_alloc": {
                 "date": "2024-06-07",
-                "HYG": 5.0,
-                "LQD": 5.0,
-                "SPY": 5.0
+                "HYG": 44.0,
+                "LQD": 44.0,
+                "SPY": 44.0
             }
         }
     ]
