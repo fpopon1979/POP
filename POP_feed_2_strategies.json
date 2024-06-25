@@ -4,13 +4,13 @@
             "name": "POP strategy 1 future",
             "id": 0,
             "current_alloc": {
-                "date": "2024-06-24",
+                "date": "2024-06-25",
                 "HYG": 0.0,
                 "LQD": 0.0,
                 "SPY": 0.5
             },
             "previous_alloc": {
-                "date": "2024-06-21",
+                "date": "2024-06-24",
                 "HYG": 0.0,
                 "LQD": 0.0,
                 "SPY": 0.5
