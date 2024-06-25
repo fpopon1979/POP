@@ -1,7 +1,7 @@
 {
     "POP_strategies_current_alloc": [
         {
-            "name": "POP for AFBI",
+            "name": "POP strategy 1 future",
             "id": 0,
             "current_alloc": {
                 "date": "2024-06-24",
