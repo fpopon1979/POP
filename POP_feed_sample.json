@@ -1,19 +1,19 @@
 {
     "POP_strategies_current_alloc": [
         {
-            "name": "POP for AFBI",
-            "id": 0,
+            "name": "POP Portfolio",
+            "id": 1,
             "current_alloc": {
-                "date": "2024-06-24",
-                "HYG": 0.0,
-                "LQD": 0.0,
-                "SPY": 0.5
+                "date": "2024-06-25",
+                "ES": -0.2,
+                "NQ": 0.0,
+                "RTY": 0.8
             },
             "previous_alloc": {
-                "date": "2024-06-21",
-                "HYG": 0.0,
-                "LQD": 0.0,
-                "SPY": 0.5
+                "date": "2024-06-24",
+                "ES": 0.0,
+                "NQ": 0.0,
+                "RTY": 1.0
             }
         }
     ]
