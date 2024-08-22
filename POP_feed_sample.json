@@ -4,13 +4,13 @@
             "name": "POP Portfolio",
             "id": 1,
             "current_alloc": {
-                "date": "2024-08-21",
+                "date": "2024-08-22",
                 "SPX500": 0.8,
                 "NAS100": 0.4,
                 "US2000": 1.0
             },
             "previous_alloc": {
-                "date": "2024-08-20",
+                "date": "2024-08-21",
                 "SPX500": 0.8,
                 "NAS100": 0.4,
                 "US2000": 1.0
