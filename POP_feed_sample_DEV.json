@@ -9,12 +9,12 @@
                 "NAS100": 0.2,
                 "US2000": 0.8,
                 "ESTX50": 0.2,
-                "BUND": 0.6,
+                "BUND": 0.4,
                 "FTSE100": 0.4,
-                "GILT": 0.4,
+                "GILT": -0.4,
                 "GOLD": 0.2,
                 "TREAS": 0.4,
-                "DXY": -0.2
+                "DXY": -0.4
             },
             "previous_alloc": {
                 "date": "2024-09-09",
