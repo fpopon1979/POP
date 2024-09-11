@@ -4,6 +4,18 @@
             "name": "POP Portfolio",
             "id": 1,
             "current_alloc": {
+                "date": "2024-09-11",
+                "SPX500": 0.4,
+                "NAS100": 0.2,
+                "US2000": 0.8,
+                "ESTX50": 0.2,
+                "BUND": 0.2,
+                "FTSE100": 0.4,
+                "GILT": -0.4,
+                "GOLD": 0.6,
+                "TREAS": 0.4
+            },
+            "previous_alloc": {
                 "date": "2024-09-10",
                 "SPX500": 0.4,
                 "NAS100": 0.2,
@@ -11,17 +23,9 @@
                 "ESTX50": 0.2,
                 "BUND": 0.4,
                 "FTSE100": 0.4,
-                "GILT": -0.4
-            },
-            "previous_alloc": {
-                "date": "2024-09-09",
-                "SPX500": 0.4,
-                "NAS100": 0.2,
-                "US2000": 0.8,
-                "ESTX50": 0.2,
-                "BUND": 0.6,
-                "FTSE100": 0.4,
-                "GILT": 0.4
+                "GILT": -0.4,
+                "GOLD": 0.6,
+                "TREAS": 0.4
             }
         }
     ]
