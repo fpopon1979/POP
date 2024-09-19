@@ -6,14 +6,14 @@
             "current_alloc": {
                 "date": "2024-09-19",
                 "SPX500": 1.0,
-                "NAS100": 0.2,
-                "US2000": -0.8,
-                "ESTX50": 0.6,
+                "NAS100": 0.0,
+                "US2000": -1.0,
+                "ESTX50": 0.4,
                 "BUND": 0.0,
-                "FTSE100": 0.2,
+                "FTSE100": 0.6,
                 "GILT": 0.6,
                 "XAUUSD": 0.0,
-                "TREAS": 0.2
+                "TREAS": 0.4
             },
             "previous_alloc": {
                 "date": "2024-09-18",
