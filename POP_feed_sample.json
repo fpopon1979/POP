@@ -15,7 +15,7 @@
                 "XAUUSD": 0.0,
                 "TREAS": 0.2,
                 "EURUSD": 0.6,
-                "GBPUSD": 0.0
+                "GBPUSD": 0.2
             },
             "previous_alloc": {
                 "date": "2024-09-30",
@@ -29,7 +29,7 @@
                 "XAUUSD": -0.4,
                 "TREAS": 0.4,
                 "EURUSD": 0.2,
-                "GBPUSD": 0.4
+                "GBPUSD": 0.6
             }
         }
     ]
