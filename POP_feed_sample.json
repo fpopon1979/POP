@@ -13,7 +13,9 @@
                 "FTSE100": -0.8,
                 "GILT": 0.8,
                 "XAUUSD": -0.4,
-                "TREAS": 0.2
+                "TREAS": 0.0,
+                "EURUSD": 0.8,
+                "GBPUSD": 0.6
             },
             "previous_alloc": {
                 "date": "2024-10-04",
@@ -25,7 +27,9 @@
                 "FTSE100": -0.4,
                 "GILT": 0.4,
                 "XAUUSD": -0.4,
-                "TREAS": -0.2
+                "TREAS": -0.2,
+                "EURUSD": 0.6,
+                "GBPUSD": 0.8
             }
         }
     ]
