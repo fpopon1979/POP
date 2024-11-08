@@ -7,19 +7,19 @@
                 "date": "2024-11-08",
                 "SPX500": 0.2,
                 "NAS100": 0.6,
-                "US2000": -1.0,
+                "US2000": -0.2,
                 "ESTX50": 1.0,
                 "BUND": 0.2,
                 "FTSE100": 0.0,
                 "GILT": 0.4,
                 "XAUUSD": 0.2,
-                "TREAS": -0.2,
+                "TREAS": -0.4,
                 "EURUSD": -0.2,
-                "GBPUSD": 1.0
+                "GBPUSD": 0.8
             },
             "previous_alloc": {
                 "date": "2024-11-07",
-                "SPX500": -0.2,
+                "SPX500": 0.0,
                 "NAS100": 0.4,
                 "US2000": -1.0,
                 "ESTX50": 0.2,
@@ -27,7 +27,7 @@
                 "FTSE100": -0.4,
                 "GILT": 0.0,
                 "XAUUSD": 0.2,
-                "TREAS": -0.2,
+                "TREAS": -0.4,
                 "EURUSD": -0.4,
                 "GBPUSD": 1.0
             }
