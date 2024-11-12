@@ -7,14 +7,14 @@
                 "date": "2024-11-12",
                 "SPX500": 0.2,
                 "NAS100": -0.6,
-                "US2000": -0.8,
+                "US2000": -1.0,
                 "ESTX50": 0.6,
                 "BUND": 0.2,
                 "FTSE100": 0.8,
                 "GILT": 0.4,
                 "XAUUSD": -0.4,
                 "TREAS": -0.2,
-                "EURUSD": -0.2,
+                "EURUSD": -0.4,
                 "GBPUSD": 0.8
             },
             "previous_alloc": {
