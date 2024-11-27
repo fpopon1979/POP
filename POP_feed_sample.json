@@ -5,17 +5,17 @@
             "id": 1,
             "current_alloc": {
                 "date": "2024-11-27",
-                "SPX500": 0.2,
+                "SPX500": 0.4,
                 "NAS100": 0.8,
-                "US2000": -0.6,
-                "ESTX50": 0.0,
-                "BUND": 0.4,
-                "FTSE100": 1.0,
-                "GILT": 0.4,
+                "US2000": 0.0,
+                "ESTX50": 0.2,
+                "BUND": 0.6,
+                "FTSE100": 0.8,
+                "GILT": 0.2,
                 "XAUUSD": 0.6,
                 "TREAS": -0.4,
-                "EURUSD": 0.2,
-                "GBPUSD": 0.0
+                "EURUSD": 0.0,
+                "GBPUSD": 0.2
             },
             "previous_alloc": {
                 "date": "2024-11-26",
