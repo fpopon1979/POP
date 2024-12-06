@@ -8,13 +8,13 @@
                 "SPX500": 0.6,
                 "NAS100": 0.8,
                 "US2000": -0.2,
-                "ESTX50": 0.0,
+                "ESTX50": -0.4,
                 "BUND": 0.6,
                 "FTSE100": -0.2,
-                "GILT": -0.2,
+                "GILT": 0.0,
                 "XAUUSD": 0.2,
                 "TREAS": 0.2,
-                "EURUSD": 0.0,
+                "EURUSD": 0.2,
                 "GBPUSD": 0.2
             },
             "previous_alloc": {
